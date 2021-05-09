@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27508" started-at="2021-01-26T18:19:27Z" finished-at="2021-01-26T18:19:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27508" started-at="2021-01-26T18:19:27Z" finished-at="2021-01-26T18:19:54Z">
+      <class name="testNG.extentTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testNG.extentTest@79ca92b9]" name="setup" is-config="true" duration-ms="26310" started-at="2021-01-26T23:49:27Z" finished-at="2021-01-26T23:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="extent()[pri:0, instance:testNG.extentTest@79ca92b9]" name="extent" duration-ms="1173" started-at="2021-01-26T23:49:53Z" finished-at="2021-01-26T23:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+      </class> <!-- testNG.extentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

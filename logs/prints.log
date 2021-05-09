@@ -1,0 +1,2 @@
+18:34:47.190 [main] FATAL com.taskcom.telescope.LogExampleTest - Inside fatal
+18:34:47.197 [main] ERROR com.taskcom.telescope.LogExampleTest - Inside Error

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="24689" started-at="2021-01-26T15:20:37 IST" finished-at="2021-01-26T15:21:01 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24689" started-at="2021-01-26T15:20:37 IST" finished-at="2021-01-26T15:21:01 IST">
+      <class name="testNG.exampleTest">
+        <test-method status="PASS" signature="secondMethod()[pri:0, instance:testNG.exampleTest@64bfbc86]" name="secondMethod" duration-ms="8" started-at="2021-01-26T15:20:37 IST" finished-at="2021-01-26T15:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMethod -->
+      </class> <!-- testNG.exampleTest -->
+      <class name="testNG.TTest">
+        <test-method status="PASS" signature="firstexecution()[pri:0, instance:testNG.TTest@55d56113]" name="firstexecution" duration-ms="0" started-at="2021-01-26T15:21:01 IST" finished-at="2021-01-26T15:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstexecution -->
+        <test-method status="PASS" signature="lastexecution()[pri:0, instance:testNG.TTest@55d56113]" name="lastexecution" duration-ms="0" started-at="2021-01-26T15:21:01 IST" finished-at="2021-01-26T15:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastexecution -->
+      </class> <!-- testNG.TTest -->
+      <class name="testNG.extentTest">
+        <test-method status="PASS" signature="extent()[pri:0, instance:testNG.extentTest@64bf3bbf]" name="extent" duration-ms="24603" started-at="2021-01-26T15:20:37 IST" finished-at="2021-01-26T15:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent -->
+      </class> <!-- testNG.extentTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
